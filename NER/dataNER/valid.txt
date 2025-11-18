@@ -1,0 +1,219 @@
+They O
+visited O
+Mount B-MOUNTAIN
+Saipal I-MOUNTAIN
+. O
+
+She O
+drank O
+coffee O
+in O
+the O
+morning O
+. O
+
+We O
+climbed O
+Mount B-MOUNTAIN
+Tate I-MOUNTAIN
+. O
+
+He O
+wrote O
+an O
+email O
+to O
+his O
+boss O
+. O
+
+She O
+rested O
+near O
+Daisen B-MOUNTAIN
+. O
+
+They O
+played O
+chess O
+after O
+school O
+. O
+
+He O
+sketched O
+Mount B-MOUNTAIN
+Elgon I-MOUNTAIN
+. O
+
+We O
+visited O
+a O
+library O
+yesterday O
+. O
+
+We O
+walked O
+toward O
+Baruntse B-MOUNTAIN
+. O
+
+She O
+cleaned O
+her O
+room O
+before O
+lunch O
+. O
+
+They O
+photographed O
+Mount B-MOUNTAIN
+Lobuche I-MOUNTAIN
+. O
+
+He O
+fixed O
+the O
+bicycle O
+. O
+
+She O
+admired O
+Mount B-MOUNTAIN
+Piz I-MOUNTAIN
+Buin I-MOUNTAIN
+. O
+
+They O
+went O
+for O
+a O
+run O
+in O
+the O
+park O
+. O
+
+He O
+climbed O
+Mount B-MOUNTAIN
+Whitney I-MOUNTAIN
+. O
+
+We O
+watched O
+the O
+sunset O
+from O
+the O
+beach O
+. O
+
+We O
+explored O
+Mount B-MOUNTAIN
+Shkhara I-MOUNTAIN
+. O
+
+She O
+baked O
+cookies O
+for O
+her O
+friends O
+. O
+
+They O
+hiked O
+near O
+Vihren B-MOUNTAIN
+. O
+
+He O
+studied O
+math O
+all O
+afternoon O
+. O
+
+Everest B-MOUNTAIN
+is O
+the O
+highest O
+peak O
+in O
+the O
+world O
+. O
+
+They O
+painted O
+the O
+fence O
+together O
+. O
+
+They O
+climbed O
+the O
+slopes O
+of O
+Kilimanjaro B-MOUNTAIN
+last O
+summer O
+. O
+
+We O
+organized O
+a O
+birthday O
+party O
+. O
+
+She O
+photographed O
+the O
+glacier O
+on O
+Fuji B-MOUNTAIN
+. O
+
+She O
+listened O
+to O
+the O
+radio O
+while O
+driving O
+. O
+
+We O
+rested O
+near O
+Mount B-MOUNTAIN
+Denali I-MOUNTAIN
+. O
+
+He O
+played O
+the O
+guitar O
+at O
+home O
+. O
+
+He O
+painted O
+Mount B-MOUNTAIN
+Makalu I-MOUNTAIN
+. O
+
+They O
+went O
+swimming O
+in O
+the O
+lake O
+. O
