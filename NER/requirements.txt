@@ -1,0 +1,8 @@
+Version: Python >= 3.8
+
+Libraries:
+torch
+transformers
+numpy
+pandas
+matplotlib
