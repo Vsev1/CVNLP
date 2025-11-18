@@ -1,0 +1,11 @@
+Version: Python >= 3.8
+
+Libraries:
+numpy
+opencv-python
+matplotlib
+torch
+torchvision
+kornia
+kornia-moons
+rasterio
